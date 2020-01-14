@@ -5,6 +5,7 @@ public class MeuseumLoader : MonoBehaviour {
 	private int mazeRows, mazeColumns;
 	public GameObject wall;
 	public GameObject photoHolder;
+	public GameObject Player;
 
 	private float size;
 
